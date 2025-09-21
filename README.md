@@ -1,6 +1,6 @@
 # yazilimKaliteSinamaVeAnaliziProjeOdevi
 
-" Yazılım Kalite Sınama Ve Kod Analiz Projesi ", yazılım kodunun kalitesini ölçmek ve iyileştirmek için geliştirilmiştir. (Yapay zekadan destek alınarak hazırlanmıştır)
+" Yazılım Kalite Sınama Ve Kod Analiz Projesi ", yazılım kodunun kalitesini ölçmek ve iyileştirmek için geliştirilmiştir. 
 
 Ana Özellikler:
 
