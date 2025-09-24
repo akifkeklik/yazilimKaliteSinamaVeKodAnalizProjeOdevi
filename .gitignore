@@ -1,0 +1,10 @@
+# Python derleme/önbellek dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasörleri (ileride kullanırsan)
+venv/
+.env/
+.venv/
